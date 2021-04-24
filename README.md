@@ -1,7 +1,7 @@
 <p><a href="https://ibb.co/5FXxMdM"><img src="https://i.ibb.co/0tpVDkD/Open-Your-arms-and-accept-everything.png" alt="Open-Your-arms-and-accept-everything" border="0" /></a><br /><br /></p>
 <h1>Hello Dear visitor 👋</h1>
 <h3>ABOUT ME</h3>
-<h5>A passionate learner working with a motive of Learn - Serve - Spread_Happiness</h5>
+<h5>A passionate learner working with a motive of Learn - Serve - Spread_Happiness. </h5>
 <hr />
 
 <h2>A quick veiw on me </h2>
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Machine learning project
 - 🌱 I’m currently learning Data science and Full stack web development 
 - 👯 I’m looking to collaborate on Machine learning projects
-- 🤔 I’m looking for Internship in Data Science 
+- 🤔 I’m also looking for Internship in Data Science 
 - 😄 Pronouns: (He/Him/His)
 -
 ⚡ My Hobbies:
@@ -20,9 +20,13 @@
 <p align="center">
 	<a href="https://github.com/amanindiamuzz"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aman-india-9a9700157/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://amanindiamuzz.medium.com/"><img src="https://img.icons8.com/bubbles/50/000000/medium.png" alt="Medium"/></a>
 	
 </p>
+<a href="http://amanindia.techmate99.com/"> My website </a>
+<br/>
+<a href="http://techmate99.com/"> My start-up </a><br/>
+<a href="https://amanindiamuzz.medium.com"> Medium Profile</a>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
