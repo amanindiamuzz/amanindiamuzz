@@ -15,3 +15,4 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+![Aman'sGitHub stats](https://github-readme-stats.vercel.app/api?username=amanindiamuzz&show_icons=true&theme=radical)
