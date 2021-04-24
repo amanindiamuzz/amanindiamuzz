@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @amanindiamuzz
-- 👀 I’m interested in Machine learning , C++, Full stack web development and on data science 
-- 🌱 I’m currently learning Full stack web development and Data science
-- 💞️ I’m looking to collaborate on project which uses technologies such as c++, machine learning and more 
-- 📫 Reach me via my LnkedIn https://www.linkedin.com/in/aman-india-9a9700157/
-
-<html>
-  <h1>hiji</h1>
-  </html>
-
-<!---
-amanindiamuzz/amanindiamuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><a href="https://ibb.co/5FXxMdM"><img src="https://i.ibb.co/0tpVDkD/Open-Your-arms-and-accept-everything.png" alt="Open-Your-arms-and-accept-everything" border="0" /></a><br /><br /></p>
+<h1>Hello Dear visitor 👋</h1>
+<h3>ABOUT ME</h3>
+<p>My name is Aman India, A passionate learner and explorer. I am a Computer science undergraduate student having keen interest in Machine learning.</p>
+<div>&nbsp;</div>
+<p>University: Lovely Professional Unversity</p>
+<p>Feilds of Interest: Machine learning, Data Science, Front end web develoment</p>
+<p>Language I am in love with: C++, PYTHON, JAVA</p>
+<p>Platform Inspires me Azure, Quick lab</p>
+<p>Connect with me on</p>
+<p><a href="https://www.linkedin.com/in/aman-india-9a9700157/">LinkedIn</a></p>
+<p><a href="https://medium.com/@amanindiamuzz">Medium</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
