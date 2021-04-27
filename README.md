@@ -29,7 +29,7 @@ I have been in various fields and had Learnt/Explored some amazing things.</h3>
 </p>
 
 <h2>My protfolio's </h2>
-<a href="http://amanindia.techmate99.com/"> My website </a>
+<a href="http://amanindia.techmate99.com/"> My website </a><br>
 <a href="http://techmate99.com/"> My start-up </a><br/>
 <a href="https://amanindiamuzz.medium.com"> Medium Profile</a>
 
