@@ -1,29 +1,35 @@
 <p><a href="https://ibb.co/5FXxMdM"><img src="https://i.ibb.co/0tpVDkD/Open-Your-arms-and-accept-everything.png" alt="Open-Your-arms-and-accept-everything" border="0" /></a><br /><br /></p>
 <h1>Hello Dear visitor 👋</h1>
-<h3>ABOUT ME</h3>
-<h5>A passionate learner working with a motive of Learn - Serve - Spread_Happiness. </h5>
+<blockquote> No limits to fly as I haven’t seen how high is the sky,<br> <br>
+Daily taking a deep drive in me to identify,<br><br>
+if some wings are left that I haven’t tried!!<br><br>
+	</blockquote>
+<h3>I am a passionate learner who is curious to learn and explore new things.<br>
+I have been in various fields and had Learnt/Explored some amazing things.</h3> 
+
 <hr />
 
 <h2>A quick veiw on me </h2>
 
-- 🔭 I’m currently working on Machine learning project
-- 🌱 I’m currently learning Data science and Full stack web development 
-- 👯 I’m looking to collaborate on Machine learning projects
-- 🤔 I’m also looking for Internship in Data Science 
-- 😄 Pronouns: (He/Him/His)
+- 🔭 I’m a Machine Learning and DataScience Lover
+- 🌱 Currently, I am exploring Machine learning and experimenting with Machine Learning
+- 👯 I'm working on a Machine learning project and looking to collaborate on something the same as it.
+- 🤔 Well, I am curious to work on Machine Learning or Data Science Internship
+- 😄 And Mentoring and teaching is something I truly love : )
 -
 ⚡ My Hobbies:
-- :Writing Poetry
-- :Teaching 
-
+- : Love podcasts and Ted talks
+- : Books inspire me but "Audiobooks" I feel more convenient 
+- : You can play table tennis with me ; )
 <h3>Connect with me 🥂 </h3>
 <p align="center">
 	<a href="https://github.com/amanindiamuzz"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aman-india-9a9700157/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 </p>
+
+<h2>My protfolio's </h2>
 <a href="http://amanindia.techmate99.com/"> My website </a>
-<br/>
 <a href="http://techmate99.com/"> My start-up </a><br/>
 <a href="https://amanindiamuzz.medium.com"> Medium Profile</a>
 
