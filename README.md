@@ -21,7 +21,8 @@ I have been in various fields and had Learnt/Explored some amazing things.</h3>
 - : Love podcasts and Ted talks
 - : Books inspire me but "Audiobooks" I feel more convenient 
 - : You can play table tennis with me ; )
-<h3>Connect with me 🥂 </h3>
+<h2>Connect with me 🥂 </h2>
+<hr>
 <p align="center">
 	<a href="https://github.com/amanindiamuzz"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aman-india-9a9700157/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -36,6 +37,8 @@ I have been in various fields and had Learnt/Explored some amazing things.</h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<h2>My contributions</h2>
+<hr>
 
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanindiamuzz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/amanindiamuzz/github-readme-stats)
 
