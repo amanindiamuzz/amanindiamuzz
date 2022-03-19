@@ -1,4 +1,4 @@
-<p><a href="https://ibb.co/5FXxMdM"><img src="https://i.ibb.co/0tpVDkD/Open-Your-arms-and-accept-everything.png" alt="Open-Your-arms-and-accept-everything" border="0" /></a><br /><br /></p>
+<p><a href="https://ibb.co/5FXxMdM"></a><br /><br /></p>
 <h1>Hello Dear visitor 👋</h1>
 <blockquote> No limits to fly as I haven’t seen how high is the sky,<br> <br>
 Daily taking a deep drive in me to identify,<br><br>
